@@ -10,3 +10,5 @@ It's pretty simple:
 6. Run the `.crx` file.
 
 If you run into any issues installing with the `.crx` file, try dragging the `.crx` file onto your _Extensions_ page.
+
+_Written by Nick Rivadeneira_
