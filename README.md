@@ -1,6 +1,7 @@
 chrome-localhost
 ================
 It's pretty simple:
+
 1. Download the `chrome-localhost` folder.
 2. In Chrome, go to _Wrench > Tools > Extensions_
 3. Check the _Developer Mode_ box at the top.
