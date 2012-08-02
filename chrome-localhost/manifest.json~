@@ -11,7 +11,7 @@
       "16": "icon-16.png"
    },
    "name": "Localhost",
-   "version": "1.0.3",
+   "version": "1.0.2",
    "options_page": "options.html",
    "manifest_version": 2
 }
