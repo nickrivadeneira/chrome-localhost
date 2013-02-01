@@ -1,7 +1,7 @@
 chrome-localhost
 ================
 Chrome Store link:
-https://chrome.google.com/webstore/detail/localhost/mjhkaggimgaoooehpggbjkankpbkmcjl?utm_source=chrome-ntp-icon
+https://chrome.google.com/webstore/detail/localhost/mjhkaggimgaoooehpggbjkankpbkmcjl
 
 It's pretty simple:
 
