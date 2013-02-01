@@ -1,5 +1,8 @@
 chrome-localhost
 ================
+Chrome Store link:
+https://chrome.google.com/webstore/detail/localhost/mjhkaggimgaoooehpggbjkankpbkmcjl?utm_source=chrome-ntp-icon
+
 It's pretty simple:
 
 1. Download the `chrome-localhost` folder.
