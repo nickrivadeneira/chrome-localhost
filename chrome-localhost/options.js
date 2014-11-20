@@ -6,7 +6,7 @@ function save_options() {
 function restore_options() {
   var port = localStorage["port_value"];
   if (port == null)
-    port = "3000";
+    port = "80";
   document.getElementById("port_text").value = port;
 }
 
